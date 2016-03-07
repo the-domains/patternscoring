@@ -1,6 +1,6 @@
 name: patternscoring
 favicon: null
-layout_spectrum: 0.47169220726937056
+layout_spectrum: 0.25294
 typography_spectrum: 0.06192445429041982
 cta:
   domain: null
@@ -21,8 +21,8 @@ color:
     - '#B3BFB8'
     - '#F0F7F4'
     - '#A2E3C4'
-  brandStrength: 0.59871058142744
-  lightness: 0.22877114568836987
-  saturation: 0.2941387393511832
-  rhythmicContrast: 0.6723643497098237
+  brandStrength: 0.5
+  lightness: 1
+  saturation: 0.5
+  rhythmicContrast: 0.5
 purpose: []
