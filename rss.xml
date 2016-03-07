@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[patternscoring]]></title>
+        <description><![CDATA[patternscoring]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Mon, 07 Mar 2016 20:44:47 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Introduction]]></title>
+            <description><![CDATA[<article><h1>Introduction</h1><p>This site provides real-time scores for precision aerobatics events that are in progress or have been completed and that are using our scoring system. This system is also able to utilize an iPod + game controller based electronic scribe system for enhancing the score keeping at precision aerobatic events. The system was designed to be loosely-coupled to the underlying PC (or Mac)-based scoring program so that we can accomodate any scoring application, as long as that application provides some set of interfaces for accessing the contest data (contest name, what classes are being flown, the contestants in each class, etc.) as well as a way to provide score data for each maneuver from each judge.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/3eea71714b2e685b2e358b29a86b8aa73522c3d9.jpg"></article>]]></description>
+            <link>undefinedintroduction-to-the-electronic-scribe/index.html</link>
+            <guid isPermaLink="false">65ae5e55-f7d4-485d-a471-9e8ea5d62ca7</guid>
+            <pubDate>Mon, 07 Mar 2016 20:44:36 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
